@@ -1,5 +1,6 @@
 # FM Assignment
 
+Source code & resources for FM assignment, Sem II, 2023-24
 
 ## Team members
 
