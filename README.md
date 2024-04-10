@@ -4,10 +4,8 @@ Source code & resources for FM assignment, Sem II, 2023-24
 
 ## Team members
 
-Aarav Haran : *2022B3A70880H*
+Aarav Haran : _2022B3A70880H_
 
-Aditya Pentyala : *2022B3A70522H*
+Aditya Pentyala : _2022B3A70522H_
 
-Vaishnu Kanna : 
-
-Rishabh Nanda : 
+Vaishnu Kanna : _2022B3A71608H_
